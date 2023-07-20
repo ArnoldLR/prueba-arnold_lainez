@@ -1,0 +1,1 @@
+'<div><a type="buton" id="buttonUpdate" data-id="'+ row.id +'" class="btn btn-sm btn-info">Editar</a> <a type="buton" id="buttonDelete" data-id="'+ row.id +'" class="btn btn-sm btn-danger">Eliminar</a></div>'
